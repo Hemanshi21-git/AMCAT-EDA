@@ -7,7 +7,7 @@
 * These insights can guide decision-making processes and improve salary prediction models.
  
 ## Data Steps for analyze the dataset:
-* Data Cleaning
+* Data Cleaning.
 * Data Manipulation
 * Univariate Analaysis
 * Bivariate Analysis
