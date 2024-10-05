@@ -1,4 +1,14 @@
-## Objective :
+## Overview:
+The AMCAT dataset, released by Aspiring Minds in the Aspiring Minds Employment Outcome 2015 (AMEO), focuses on engineering graduates. It analyzes employment outcomes such as salary, job titles, and job locations, alongside standardized scores in cognitive, technical, and personality skills. The dataset includes independent variables, demographic features, and each candidate is assigned a unique identifier.
+
+## Contents:
+Data Files: The dataset files in various formats (CSV, Excel, etc.)
+Code: Scripts for data analysis and preprocessing.
+Observations: Key findings and insights derived from the data.
+Research Question: A statement outlining the main research objectives
+Data Description
+
+## Objective of this project :
  The goal of this project is to conduct a comprehensive exploratory data analysis (EDA) that includes both univariate and bivariate analyses. This analysis aims to:
 *  Understand the distribution of individual variables (univariate analysis).
 *  Identify outliers within the dataset.
